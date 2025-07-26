@@ -8,10 +8,7 @@ This project is a demonstration of a simple financial system where users can:
 - Login
 - Top up balance
 - Transfer funds to other users
-
-![Screencast](gateway/gateway-service/src/main/resources/static/screencast.gif)
-
-*Screencast demonstrating the user story of transfer funds.*
+- View transaction history
 
 ## Technology Stack and Patterns
 
