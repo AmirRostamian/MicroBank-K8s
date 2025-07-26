@@ -1,4 +1,4 @@
-# Microservices with Spring Boot and Spring Cloud on Kubernetes Demo Project — Payment System
+# MicroBanking System - K8s Demo
 
 ## Overview
 
@@ -434,8 +434,7 @@ minikube dashboard
 
 ## Results
 
-Thank you for considering a contribution to this project! I appreciate any help in bringing my plans to fruition. Here's
-a brief outline of the features and configurations I'm hoping to implement:
+Brief outline of the features and configurations I'm hoping to implement:
 
 - **Code Quality & Styling Tools**: Setting up PMD, Checkstyle, and Codeformatter to maintain code consistency and
   quality.
