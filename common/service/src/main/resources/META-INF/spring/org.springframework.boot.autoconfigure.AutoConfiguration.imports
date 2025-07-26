@@ -1,0 +1,4 @@
+app.demo.payment.common.service.configuration.ServiceSecurityBeanConfiguration
+configuration.app.demo.payment.common.service.ApiConfiguration
+app.demo.payment.common.service.configuration.SpringSecurityConfiguration
+

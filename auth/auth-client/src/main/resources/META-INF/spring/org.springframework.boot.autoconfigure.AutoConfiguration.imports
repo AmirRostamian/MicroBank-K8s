@@ -1,0 +1,2 @@
+app.demo.payment.auth.client.starter.AuthClientAutoConfiguration
+app.demo.payment.auth.client.configuration.ServicePrincipalConfiguration

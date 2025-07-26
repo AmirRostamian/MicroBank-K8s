@@ -1,0 +1,2 @@
+org.springframework.context.ApplicationContextInitializer=\
+  app.demo.payment.common.testing.integration.initializer.TestPropertiesInitializer
